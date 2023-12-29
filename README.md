@@ -32,4 +32,3 @@ Look for the output that includes the SSR link or QR code. This information incl
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
